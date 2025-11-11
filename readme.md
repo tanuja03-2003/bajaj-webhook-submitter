@@ -14,23 +14,7 @@ Spring Boot application that:
 ### Build & Run
 
 
----
-
-In their Microsoft Form / Portal:
-- Paste your **GitHub repository link**
-- Upload your **JAR file** if asked
-- Paste the successful console output or attach a screenshot
-
----
 
 
 
-| Requirement | Status |
-|--------------|--------|
-| ✅ Java 17 used | ✔️ |
-| ✅ Spring Boot 3.2.0 | ✔️ |
-| ✅ application.properties filled | ✔️ |
-| ✅ Final query submitted successfully | ✔️ |
-| ✅ GitHub repo created | ⏳ (next step) |
-| ✅ Output screenshot ready | ✔️ |
 
